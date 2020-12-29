@@ -33,7 +33,7 @@ Refer to our Glossary for more information on any of the terms used throughout t
 
 Welcome to NXRM Basic Installation and Setup
 
-### Lesson 1 - Getting Started with Nexus Repository
+### 100 Lesson 1 - Getting Started with Nexus Repository
 
 - Installing, Starting, and Shutting Down Nexus Repository
 
@@ -41,7 +41,7 @@ Welcome to NXRM Basic Installation and Setup
 
 - 1 Knowledge Check
 
-### Lesson 2 - Managing Maven Proxy and Hosted Repositories
+### 200 Lesson 2 - Managing Maven Proxy and Hosted Repositories
 
 - Maven Proxy Repositories
 
@@ -51,7 +51,7 @@ Welcome to NXRM Basic Installation and Setup
 
 - 1 Knowledge Check
 
-### Lesson 3 - Managing Repository Groups
+### 300 Lesson 3 - Managing Repository Groups
 
 - Configuring Group Repositories
 
@@ -59,7 +59,7 @@ Welcome to NXRM Basic Installation and Setup
 
 - 1 Knowledge Check
 
-### Lab - Building a Sample Project
+### 400 Lab - Building a Sample Project
 
 - Lab Exercise
 
