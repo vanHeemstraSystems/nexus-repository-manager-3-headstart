@@ -30,7 +30,7 @@ mkdir install_dir
 ## Unpack and Launch Repository Manager
 After successfully downloading the NXRM file, unpack the compressed files into the file directory that you created in the section above. From that point, you will be able to launch the repository by running the startup script.
 
-1. Unpack the archive file into the directory you created in the previous section. From the command line use tar xvzf nexus-<version>.<tar file extension> to extract the repository manager.
+1. Unpack the archive file into the directory you created in the previous section. From the command line use ```tar xvzf nexus-<version>.<tar file extension>``` to extract the repository manager.
 2. Locate the startup script for NXRM in the directory you created earlier in this lesson. You will find the startup script in the folder nexus-<version>/bin/ as pictured above. (This example uses a Linux platform.)
 3. Start NXRM by running the nexus file in your terminal. From the bin folder in your application directory perform one of the following:
 ./nexus run, for *Unix operating systems like Linux
