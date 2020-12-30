@@ -47,7 +47,7 @@ Refer to our Glossary for more information on any of the terms used throughout t
 - Roles - Putting It All Together
 - Summary - Lesson 3 NXRM-SEC-100
 
-# Lesson 4 - Content Selectors
+## Lesson 4 - Content Selectors
 - Content Selectors
 - Summary - Lesson 4 NXRM-SEC-100
 
