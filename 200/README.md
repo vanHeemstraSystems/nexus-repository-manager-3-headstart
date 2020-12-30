@@ -43,8 +43,6 @@ See [README.md](./100/README.md)
 
 - Summary - Lesson 1
 
-- 1 Knowledge Check
-
 ### 200 Lesson 2 - Managing Maven Proxy and Hosted Repositories
 
 See [README.md](./200/README.md)
@@ -55,8 +53,6 @@ See [README.md](./200/README.md)
 
 - Summary - Lesson 2
 
-- 1 Knowledge Check
-
 ### 300 Lesson 3 - Managing Repository Groups
 
 See [README.md](./300/README.md)
@@ -64,8 +60,6 @@ See [README.md](./300/README.md)
 - Configuring Group Repositories
 
 - Summary - Lesson 3
-
-- 1 Knowledge Check
 
 ### 400 Lab - Building a Sample Project
 
