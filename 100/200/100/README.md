@@ -54,6 +54,6 @@ As of this publication, Nexus Repository Manager supports the following formats:
 - PyPI
 - RubyGems
 - Raw (Site)
--Yum
+- Yum
 
 For the latest updates, refer to [Supported Formats](https://help.sonatype.com/display/NXRM3/Supported+Formats?_ga=2.177743712.436252390.1609239928-894119647.1609239928) in the Nexus Repository Manager help site.
