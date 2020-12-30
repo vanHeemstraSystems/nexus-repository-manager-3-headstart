@@ -65,4 +65,31 @@ See [README.md](./400/README.md)
 
 ## Course Wrap Up
 
-## Course Summary
+### Course Summary
+Congratulations!
+
+You have completed this course.  
+
+You are now able to:
+
+- Recognize the roles and functions of a repository manager.
+- Describe what components and formats are in Nexus Repository Manager and which formats are supported.
+- Identify the different repository types used in Nexus Repository Manager.
+- Complete an organizational repository planning checklist.
+
+### Resources
+Need more help? We have you covered:
+
+- Nexus Repository Manager Help Documentation: https://help.sonatype.com/repomanager3
+- Nexus Repository Manager Support:  https://support.sonatype.com/hc/en-us/categories/202673428-Nexus-Repository-Manager-3
+- Product Information: https://www.sonatype.com/nexus-repository-sonatype
+- Sonatype Community: https://community.sonatype.com/c/nexus-repository
+- My Sonatype: https://my.sonatype.com/
+
+### What’s Next?
+- Take the next course, First Time Installation and Setup
+- [Sign up to receive email alerts](education@sonatype.com) each time Sonatype Customer Education team published new content.  
+- Have more questions or comments?  Learn more at my.sonatype.com, and join us in the [Sonatype Community](https://community.sonatype.com/c/learn-sonatype).
+
+### Help and More Information
+Need help or more information?  [Post a message](https://community.sonatype.com/t/help-with-a-course/2080?u=mlatin) and we’ll get right back to you.
