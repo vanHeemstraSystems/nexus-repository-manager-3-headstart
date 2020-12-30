@@ -20,10 +20,14 @@ Download the repository manager via these steps:
 2. Click the Link for Download according to your operating system. The packed/zipped file is downloaded to your computer.
 3. You have now successfully created an installation directory and downloaded NXRM. Next, we will unpack the file and launch NXRM via the startup script.
 
-Watch this video to see how to download the repository manager and create an install directory.
+Watch this [video](https://learn.sonatype.com/courses/nxrm-config-100/lessons/installing-starting-and-shutting-down-nexus-repository/) to see how to download the repository manager and create an install directory.
 
+```
+cd /opt
+mkdir install_dir
+```
 
-Unpack and Launch Repository Manager
+## Unpack and Launch Repository Manager
 After successfully downloading the NXRM file, unpack the compressed files into the file directory that you created in the section above. From that point, you will be able to launch the repository by running the startup script.
 
 Unpack the archive file into the directory you created in the previous section. From the command line use tar xvzf nexus-<version>.<tar file extension> to extract the repository manager.
@@ -36,10 +40,10 @@ The Welcome screen (aka Outreach page) provides important links and notification
 
 You have successfully unpacked and started NXRM 3 OSS. Up next, sign into the Repository Manager and complete the security wizard at startup.
 
-Check out this video to learn to unpack and run Nexus Repository Manager.
+Check out this [video](https://learn.sonatype.com/courses/nxrm-config-100/lessons/installing-starting-and-shutting-down-nexus-repository/) to learn to unpack and run Nexus Repository Manager.
 
 
-Signing In
+## Signing In
 The first time you log in to the repository manager, you’re required to create a new password. The initial password is an alpha-numeric string found in your data directory. The first attempt to get in takes you to a module to help you complete the steps, and to set up defaults for anonymous access.
 
 Make sure your terminal is open to complete the authentication steps.
@@ -79,14 +83,15 @@ Confirm the new password by entering it in again in the Confirm password field.
 Click Change password. The dialog box is closed, and you have successfully changed your password.
 You have now successfully logged in to NXRM and updated your account and passwords.
 
-Check out this video to learn more signing in and updating credentials.
+Check out this [video](https://learn.sonatype.com/courses/nxrm-config-100/lessons/installing-starting-and-shutting-down-nexus-repository/) to learn more signing in and updating credentials.
 
 
-Sign Out and Shut Down
+## Sign Out and Shut Down
 In order to shut down the repository manager, there are a few things to do. First, sign out of NXRM, then shut down via the command line. The steps to do so are described below.
 
 Click Sign out. The screen refreshes and you are signed out of NXRM. You may close the browser window.
 Navigate to your terminal.
 You can do a hard stop with CTL+C on the keyboard.
 Alternatively, you can run nohup ./nexus stop to shut down the application. nohup produces a log file – nohup.out – that records the status of your Nexus instance.
-Watch this video to see how to sign out and shut down Nexus Repository.
+
+Watch this [video](https://learn.sonatype.com/courses/nxrm-config-100/lessons/installing-starting-and-shutting-down-nexus-repository/) to see how to sign out and shut down Nexus Repository.
