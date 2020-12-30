@@ -21,7 +21,7 @@ Users interested in learning the first steps towards optimizing Nexus Repository
 Nexus Repository Manager 3 – System Requirements
 The product version used in this course may be different than your own. The screens may have a different display, but the content and concepts remain generally the same.
 
-Refer to our Glossary for more information on any of the terms used throughout this course.
+Refer to our [Glossary](https://help.sonatype.com/learning/reference%3A-glossary?_ga=2.105734214.436252390.1609239928-894119647.1609239928) for more information on any of the terms used throughout this course.
 
 ## Course Content
 - Welcome to NXRM-ADM-100
