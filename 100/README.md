@@ -27,6 +27,9 @@ Refer to our Glossary for more information on any of the terms used throughout t
 - Welcome to NXRM-ADM-100
 
 ## 100 Lesson 1 - Functions of a Repository Manager
+
+See [README.md](./100/README.md)
+
 - Functions of a Repository Manager
 - Repository vs. Repository Manager: What's the Difference?
 - Repo for SDLC Management
@@ -34,16 +37,25 @@ Refer to our Glossary for more information on any of the terms used throughout t
 - Lab - Lesson 1
 
 ## 200 Lesson 2 - Components and Formats
+
+See [README.md](./200/README.md)
+
 - Components and Formats
 - Summary - Lesson 2
 - Lab - Lesson 2
 
 ## 300 Lesson 3 - Repository Types
+
+See [README.md](./300/README.md)
+
 - Repository Types
 - Summary - Lesson 3
 - Lab - Lesson 3
 
 ## 400 Lab: Repository Planning
+
+See [README.md](./400/README.md)
+
 - What You'll Do
 - Example Use Case
 - Repository Planning Checklist
