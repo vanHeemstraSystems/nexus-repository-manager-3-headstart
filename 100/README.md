@@ -23,7 +23,10 @@ The product version used in this course may be different than your own. The scre
 
 Refer to our [Glossary](https://help.sonatype.com/learning/reference%3A-glossary?_ga=2.105734214.436252390.1609239928-894119647.1609239928) for more information on any of the terms used throughout this course.
 
-## Course Content
+## 000 Course Content
+
+See [README.md](./000/README.md)
+
 - Welcome to NXRM-ADM-100
 
 ## 100 Lesson 1 - Functions of a Repository Manager
