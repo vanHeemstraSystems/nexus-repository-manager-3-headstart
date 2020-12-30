@@ -1,5 +1,6 @@
-# 000 Welcome to NXRM-ADM-100
+# 000 Course Content
 
+## Welcome to NXRM-ADM-100
 This course is designed to provide new customers with the first steps towards optimizing their Nexus Repository Manager configuration. Specifically, it provides critical, high-level theory, best practice, and practical application related to understanding specific concepts and terminology related to Nexus Repository Manager.
 
 ## Questions for Reflection
