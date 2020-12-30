@@ -14,4 +14,11 @@ See [README.md](./300/README.md)
 
 ## Summary - Lesson 1
 
+You are now able to:
+
+- Explain the functions of a repository manager.
+- Differentiate between a repository and a repository manager.
+- Describe the importance of a repository manager in modern software development. 
+- Determine current and future software supply chain goals and the role that Nexus Repository Manager 3 (NXRM3) will fill in your organization.
+
 ## Lab - Lesson 1
