@@ -29,7 +29,9 @@ This module is designed to provide new users with a proof-of-concept experience 
 
 Refer to our Glossary for more information on any of the terms used throughout this course.
 
-## Course Content
+## 000 Course Content
+
+See [README.md](./000/README.md)
 
 Welcome to NXRM Basic Installation and Setup
 
