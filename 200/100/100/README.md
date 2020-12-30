@@ -30,12 +30,13 @@ mkdir install_dir
 ## Unpack and Launch Repository Manager
 After successfully downloading the NXRM file, unpack the compressed files into the file directory that you created in the section above. From that point, you will be able to launch the repository by running the startup script.
 
-Unpack the archive file into the directory you created in the previous section. From the command line use tar xvzf nexus-<version>.<tar file extension> to extract the repository manager.
-Locate the startup script for NXRM in the directory you created earlier in this lesson. You will find the startup script in the folder nexus-<version>/bin/ as pictured above. (This example uses a Linux platform.)
-Start NXRM by running the nexus file in your terminal. From the bin folder in your application directory perform one of the following:
+1. Unpack the archive file into the directory you created in the previous section. From the command line use tar xvzf nexus-<version>.<tar file extension> to extract the repository manager.
+2. Locate the startup script for NXRM in the directory you created earlier in this lesson. You will find the startup script in the folder nexus-<version>/bin/ as pictured above. (This example uses a Linux platform.)
+3. Start NXRM by running the nexus file in your terminal. From the bin folder in your application directory perform one of the following:
 ./nexus run, for *Unix operating systems like Linux
 nexus.exe /run, for Windows
-Type in the URL http://localhost:8081/ in your browser. The Nexus Repository Manager Welcome screen displays.
+4. Type in the URL http://localhost:8081/ in your browser. The Nexus Repository Manager Welcome screen displays.
+
 The Welcome screen (aka Outreach page) provides important links and notifications regarding the repository manager. On this page you might find details about upcoming user conferences, release notes, and surveys, among other things. Navigating the user interface is covered in a separate module.
 
 You have successfully unpacked and started NXRM 3 OSS. Up next, sign into the Repository Manager and complete the security wizard at startup.
